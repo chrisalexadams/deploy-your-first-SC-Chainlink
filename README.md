@@ -1,2 +1,2 @@
 # deploy-your-first-SC-Chainlink
-Slides 
+Slides for Chainlink Dev Expert demo
